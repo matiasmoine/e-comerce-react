@@ -1,0 +1,26 @@
+.titulo-h2 {
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0;    
+    line-height: 1;
+}
+
+
+.head-titulo {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+.head-auto {
+
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    display: block;
+    
+
+}
